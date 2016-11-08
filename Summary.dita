@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c-summary">
+ <title>Summary</title>
+ <conbody>
+  <p>This document will go over the fundamentals of creating a instructional video. You will learn:</p>
+   <ul>
+    <li>The <b>purpose</b> of creating the videos and how they can be accessible to a variety of audiences and topics.</li>
+    <li>The various <b>methods</b> for creating an instructional video. This section will go over the various design qualities and communication strategies that you can use in your video.</li>
+    <li>Different <b>results</b> of instructional videos. You will learn what separates a good video from a video and the qualities of an effective video. </li>
+   </ul>
+ </conbody>
+</concept>
